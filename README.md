@@ -11,8 +11,7 @@
 
 - MDFA dataset is available at [MDvsFa cGan](https://github.com/wanghuanphd/MDvsFA_cGAN).
 - SIRST dataset is available at [SIRST](https://github.com/YimianDai/sirst).
-- The SIRST Augment dataset is published at [SIRST Aug](https://github.com/Tianfang-Zhang/SIRST-Aug).
-
+- The SIRST Augment dataset: download from [Google Drive](https://drive.google.com/file/d/13hhEwYHU19oxanXYf-wUpZ7JtiwY8LuT/view?usp=sharing) or [BaiduYun Drive](https://pan.baidu.com/s/1c35pADjPhkAcLwmU-u0RBA) with code `ojd4`.
 
 ## [Usage](#attention-guided-pyramid-context-networks)
 
