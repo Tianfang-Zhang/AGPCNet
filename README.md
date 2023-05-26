@@ -1,11 +1,11 @@
 # Attention-Guided Pyramid Context Networks
 
-[![](https://img.shields.io/badge/building-None-red.svg?style=flat-square)](https://github.com/Tianfang-Zhang/SRWS)
+[![](https://img.shields.io/badge/building-Done-green.svg?style=flat-square)](https://github.com/Tianfang-Zhang/AGPCNet)
 ![](https://img.shields.io/badge/language-PyTorch-blue.svg?style=flat-square)
 [![](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](./LICENSE)
 
-> [Paper Link](https://arxiv.org/abs/2111.03580)   
-> Authors: Tianfang Zhang, Siying Cao, Tian Pu and Zhenming Peng  
+> [Paper Link](https://ieeexplore.ieee.org/document/10024907)   
+> Authors: Tianfang Zhang, Lei Li, Siying Cao, Tian Pu and Zhenming Peng  
 
 ## [Datasets](#attention-guided-pyramid-context-networks)
 
@@ -64,12 +64,12 @@ Evaluation of model-driven algorithms based on traditional metrics refers [ISTD-
 ## [Citation](#attention-guided-pyramid-context-networks)
 
 ```python
-@misc{zhang2021agpcnet,
-      title={AGPCNet: Attention-Guided Pyramid Context Networks for Infrared Small Target Detection}, 
-      author={Tianfang Zhang and Siying Cao and Tian Pu and Zhenming Peng},
-      year={2021},
-      eprint={2111.03580},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{zhang2023attention,
+  title={Attention-guided pyramid context networks for detecting infrared small target under complex background},
+  author={Zhang, Tianfang and Li, Lei and Cao, Siying and Pu, Tian and Peng, Zhenming},
+  journal={IEEE Transactions on Aerospace and Electronic Systems},
+  year={2023},
+  doi={10.1109/TAES.2023.3238703},
+  publisher={IEEE}
 }
 ```
